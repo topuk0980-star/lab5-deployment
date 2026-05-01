@@ -1,0 +1,8 @@
+@import "tailwindcss"; /* */
+
+/* Додамо примусовий фон, щоб відразу побачити результат */
+body {
+  background-color: #0f172a;
+  color: white;
+  margin: 0;
+}
